@@ -1,0 +1,23 @@
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\builtins.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\common.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\fuse.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\interrupt.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\io.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\lock.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\portpins.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\sfr_defs.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\sleep.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\avr\version.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\inttypes.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\math.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\stdint.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\stdio.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\stdlib.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\string.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\util\delay.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\avr\include\util\delay_basic.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stdarg.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stdbool.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stddef.h
+Header file excluded from package: c:\program files\microchip\xc8\v2.32\avr\lib\gcc\avr\5.4.0\include\stdint.h
+Found and added required header to zip: C:\Users\i00182\Downloads\IO1 Xplained PRO mega324pb.X\include\avr\iom324pb.h
